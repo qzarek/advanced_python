@@ -1,0 +1,1 @@
+asgiref==3.4.1certifi==2021.10.8charset-normalizer==2.0.7click==8.0.1Django==3.2.7Faker==8.13.2Flask==2.0.1idna==3.3itsdangerous==2.0.1Jinja2==3.0.1MarkupSafe==2.0.1numpy==1.21.2pandas==1.3.3pip==21.3.1python-dateutil==2.8.2pytz==2021.1requests==2.26.0setuptools==58.0.4six==1.16.0sqlparse==0.4.2text-unidecode==1.3urllib3==1.26.7Werkzeug==2.0.1
