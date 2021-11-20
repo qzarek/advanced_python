@@ -52,6 +52,3 @@ def amount_astros_now():
     for astros in read:
         amount_astros += 1
     return f"Amount Astros now: {amount_astros}"
-
-
-a=write_requirements()
